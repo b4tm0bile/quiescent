@@ -1,2 +1,3 @@
 # quiescent
 kanji
+nice
