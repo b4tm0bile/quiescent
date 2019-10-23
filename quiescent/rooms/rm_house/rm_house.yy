@@ -1,6 +1,6 @@
 
 {
-    "name": "room1",
+    "name": "rm_house",
     "id": "85d96e5b-408d-4339-8b9a-621485d506bf",
     "creationCodeFile": "",
     "inheritCode": false,
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_6AA321F4","id": "601ff539-f60e-45f9-9dfe-1745879b4668","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6AA321F4","objId": "9ddbd6d9-cbd9-40d0-b64e-2f597f890273","properties": null,"rotation": 0,"scaleX": 7,"scaleY": 8,"mvc": "1.1","x": 128,"y": 160}
+{"name": "inst_6AA321F4","id": "601ff539-f60e-45f9-9dfe-1745879b4668","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"imageIndex": 0,"imageSpeed": 1,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6AA321F4","objId": "9ddbd6d9-cbd9-40d0-b64e-2f597f890273","properties": null,"rotation": 0,"scaleX": 7,"scaleY": 7,"mvc": "1.1","x": 576,"y": 576}
             ],
             "layers": [
 
@@ -92,11 +92,11 @@
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1920
+        "Width": 1080
     },
     "mvc": "1.0",
     "views": [
-{"id": "dfb74e5a-24f2-4cfa-88b2-606bf9c0b0c0","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
+{"id": "dfb74e5a-24f2-4cfa-88b2-606bf9c0b0c0","hborder": 200,"hport": 540,"hspeed": -1,"hview": 540,"inherit": false,"modelName": "GMRView","objId": "9ddbd6d9-cbd9-40d0-b64e-2f597f890273","mvc": "1.0","vborder": 200,"visible": true,"vspeed": -1,"wport": 540,"wview": 540,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "68f62adf-518b-4b26-ae3b-76ce8044a087","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "d534eb3a-f94e-4bff-badf-6fc3afdad62f","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
 {"id": "25ee7f89-70e9-4ba3-80b1-ca53bb368b38","hborder": 32,"hport": 768,"hspeed": -1,"hview": 768,"inherit": false,"modelName": "GMRView","objId": "00000000-0000-0000-0000-000000000000","mvc": "1.0","vborder": 32,"visible": false,"vspeed": -1,"wport": 1024,"wview": 1024,"xport": 0,"xview": 0,"yport": 0,"yview": 0},
@@ -109,7 +109,7 @@
         "id": "9fa30bc8-9aa4-478c-8455-adc654709b9f",
         "clearDisplayBuffer": true,
         "clearViewBackground": false,
-        "enableViews": false,
+        "enableViews": true,
         "inheritViewSettings": false,
         "modelName": "GMRoomViewSettings",
         "mvc": "1.0"

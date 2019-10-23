@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "03c089e6-4640-4c9f-a591-79bee6384c95",
-            "Value": {
-                "id": "f9003df3-2146-4d03-904a-35040e6f2875",
-                "resourcePath": "fonts\\font_newgame\\font_newgame.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
             "Key": "0400cf80-69c0-4ec7-97d0-b25ac442147d",
             "Value": {
                 "id": "c1e9597b-edea-40f9-b018-04f94e6fbb28",
@@ -114,7 +106,7 @@
             "Key": "5e1b861e-22f3-42c9-87da-6eb3891f988e",
             "Value": {
                 "id": "985d9f0b-c221-40de-ae34-ec83541f21b3",
-                "resourcePath": "sprites\\sprite3\\sprite3.yy",
+                "resourcePath": "sprites\\spr_hitler\\spr_hitler.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -130,8 +122,16 @@
             "Key": "85d96e5b-408d-4339-8b9a-621485d506bf",
             "Value": {
                 "id": "d77171cb-eb6f-48b2-9526-60526be2d290",
-                "resourcePath": "rooms\\room1\\room1.yy",
+                "resourcePath": "rooms\\rm_house\\rm_house.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "9ddbd6d9-cbd9-40d0-b64e-2f597f890273",
+            "Value": {
+                "id": "7feb7203-ce25-44e2-bfe2-c511bc412c8d",
+                "resourcePath": "objects\\obj_commie\\obj_commie.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -140,6 +140,14 @@
                 "id": "944bbff7-5b64-4e0e-928d-ae806aafb490",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "adec15bd-0b80-4d3d-83d7-5c89cf8422f8",
+            "Value": {
+                "id": "d2e250cd-3c8c-4b2c-b5af-688361f54ce8",
+                "resourcePath": "sprites\\spr_newgame\\spr_newgame.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -172,6 +180,14 @@
                 "id": "9fa3321f-10e2-4640-b375-3d788127e1b6",
                 "resourcePath": "views\\c4017a61-c99d-4754-b5ae-a3a5b24aef29.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cb4c761f-8fb8-472d-97c3-cbacd4af8bb1",
+            "Value": {
+                "id": "81f8c620-58c9-4896-a149-f8d554000a6e",
+                "resourcePath": "sprites\\spr_commie\\spr_commie.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -223,6 +239,14 @@
             }
         },
         {
+            "Key": "e747df68-af9a-4e31-91aa-780f88a967f8",
+            "Value": {
+                "id": "33055b97-f2a3-4a1c-b828-c19c43858518",
+                "resourcePath": "objects\\object3\\object3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ea644732-8f7f-4907-a04c-be376180682d",
             "Value": {
                 "id": "b3db69f2-14b8-4c3d-8005-7afe5bf2ebed",
@@ -252,6 +276,14 @@
                 "id": "0239406a-1ac3-4ec3-9fe2-bcfc2759baec",
                 "resourcePath": "views\\f5f687c3-7382-4351-af70-a72ced6ec7d7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f68403f5-5405-44a0-9684-0326d319d20b",
+            "Value": {
+                "id": "b8978f1e-8c83-4c23-8026-b3db6a7c7881",
+                "resourcePath": "fonts\\font_newgame\\font_newgame.yy",
+                "resourceType": "GMFont"
             }
         }
     ],
