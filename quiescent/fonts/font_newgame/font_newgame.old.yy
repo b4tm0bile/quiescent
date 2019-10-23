@@ -2,7 +2,7 @@
     "id": "f68403f5-5405-44a0-9684-0326d319d20b",
     "modelName": "GMFont",
     "mvc": "1.1",
-    "name": "font1",
+    "name": "font_newgame",
     "AntiAlias": 1,
     "TTFName": "",
     "ascenderOffset": 0,
