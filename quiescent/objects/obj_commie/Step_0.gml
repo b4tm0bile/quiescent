@@ -19,4 +19,9 @@ if keyboard_check(ord("D"))
    image_angle = 270;
 }
 
-
+if (mouse_check_button(mb_left)) && (cooldown < 1)
+{
+instance_create_layer(x, y, "BulletsLayer", obj_bullet);
+	cooldown = 20;
+}
+cooldown = cooldown - 1;

@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "56740fff-92b1-4615-a8ac-6d9784f0564d",
+            "Value": {
+                "id": "327f48cd-e681-46e2-b1ed-204d1df3909f",
+                "resourcePath": "sounds\\snd_menu\\snd_menu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5e1b861e-22f3-42c9-87da-6eb3891f988e",
             "Value": {
                 "id": "985d9f0b-c221-40de-ae34-ec83541f21b3",
@@ -116,6 +124,14 @@
                 "id": "a4770167-d1b3-4fcc-80f0-93df8de2176a",
                 "resourcePath": "sprites\\spr_bullet\\spr_bullet.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7695f97d-47b3-4609-b7c6-93eeebe09d7e",
+            "Value": {
+                "id": "c8d89934-6e58-4350-b997-cb266168cf18",
+                "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -148,6 +164,14 @@
                 "id": "944bbff7-5b64-4e0e-928d-ae806aafb490",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aa6a1cc9-7ec7-47ad-b6d9-c7fd9b8810c2",
+            "Value": {
+                "id": "66dada89-72ec-4493-81b4-98813c4da8c3",
+                "resourcePath": "sounds\\snd_gameplay\\snd_gameplay.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -279,6 +303,14 @@
             }
         },
         {
+            "Key": "f430d74c-2d37-4200-8dcd-888d9bb078ac",
+            "Value": {
+                "id": "56eb6bc2-26ca-403c-9045-658d28db552d",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f5f687c3-7382-4351-af70-a72ced6ec7d7",
             "Value": {
                 "id": "0239406a-1ac3-4ec3-9fe2-bcfc2759baec",
@@ -292,6 +324,14 @@
                 "id": "b8978f1e-8c83-4c23-8026-b3db6a7c7881",
                 "resourcePath": "fonts\\font_newgame\\font_newgame.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "f925ec8f-f4b6-4e74-a237-6a77cd06e838",
+            "Value": {
+                "id": "b15bfbad-78a3-4adc-94fc-66720a7a39b9",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
