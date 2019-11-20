@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "4178c335-63ba-45af-b6b8-45f2e6e861ab",
+            "Value": {
+                "id": "8d354b7c-3ae3-4881-8642-bc5254193c5f",
+                "resourcePath": "sprites\\spr_shrink\\spr_shrink.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "43977e0d-fc3d-45f1-87c7-22c8b221a6ea",
             "Value": {
                 "id": "e3ec8216-93cf-4926-8776-ee762c8dceaf",
@@ -335,11 +343,27 @@
             }
         },
         {
+            "Key": "b3a94845-3d5e-423c-aeeb-4f2b92d07c0c",
+            "Value": {
+                "id": "b72ee01f-c364-4748-9dba-ccf895a01dd9",
+                "resourcePath": "sprites\\bar\\bar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b4b1a8ad-16f0-4657-a0fd-d3cd020ac1f8",
             "Value": {
                 "id": "a3f23046-c45a-4931-bbe1-ea732ba17c1e",
                 "resourcePath": "sprites\\bg_quiescent\\bg_quiescent.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b4f6846d-51e0-4029-92ee-39fea5a90305",
+            "Value": {
+                "id": "800bfdb9-7106-42e5-b3da-e9512c19d57c",
+                "resourcePath": "objects\\obj_shrink\\obj_shrink.yy",
+                "resourceType": "GMObject"
             }
         },
         {
